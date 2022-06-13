@@ -4,3 +4,6 @@ A hospital wants to determine whether there is any difference in the average Tur
 Anova ftest statistics: Analysis of varaince between more than 2 samples or columns Assume Null Hypothesis Ho as No Varaince: All samples TAT population means are same
 
 Thus Alternate Hypothesis Ha as It has Variance: Atleast one sample TAT population mean is different
+
+Therefore p value>0.05
+then accept null hypothesis i.e All samples TAT population means are same.
